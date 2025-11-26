@@ -4,7 +4,7 @@
   <img src="doc/logo.png" style="width: 67%;"/>
 </p>
 
-The `hitch_estimation_apriltag_array` package is intended to estimate the transform between a mobile base and a cart that is hitched to its rear. The calculation is performed by estimating the 6DOF transform between a RGB camera assumed to be mounted at the rear of the mobile base and an array of April tags mounted at the front of the cart.
+The `hitch_estimation_apriltag_array` package is intended to estimate the angle between a mobile base and a cart that is hitched to its rear. The calculation is performed by estimating the 6DOF transform between a RGB camera assumed to be mounted at the rear of the mobile base and an array of April tags mounted at the front of the cart.
 
 
 ### Parameters
