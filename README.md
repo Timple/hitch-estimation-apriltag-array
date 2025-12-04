@@ -28,3 +28,7 @@ Instead, if you wish to estimate only the transform of the April tag array with 
 ```xml
 <include file="$(find-pkg-share hitch_estimation_apriltag_array)/launch/hitch_joint_state_estimation.launch.xml"/>
 ```
+
+### ROS 2 buildfarm build status 
+
+[![Build Status](https://build.ros2.org/buildStatus/icon?job=Hsrc_uJ__hitch_estimation_apriltag_array__ubuntu_jammy__source)](https://build.ros2.org/job/Hsrc_uJ__hitch_estimation_apriltag_array__ubuntu_jammy__source/)
