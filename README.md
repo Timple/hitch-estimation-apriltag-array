@@ -31,7 +31,7 @@ Instead, if you wish to estimate only the transform of the April tag array with 
 
 ### In action
 
-The utility of this package is to facilitate motion planning and control during autonomous navigation of articulated vehicles. 
+The utility of this package is to facilitate motion planning and control during autonomous navigation of articulated vehicles. See video:
 
 [![hitch_estimation_apriltag_array in action](https://img.youtube.com/vi/TSIXd5L-Hxk/0.jpg)](https://www.youtube.com/shorts/TSIXd5L-Hxk)
 
