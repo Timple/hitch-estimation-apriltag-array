@@ -9,9 +9,9 @@
   <maintainer email="alexandros.filotheou@gmail.com">li9i</maintainer>
 
   <license>BSD</license>
-  <url type="website">https://github.com/li9i/apriltag-hitch-estimation</url>
-  <url type="repository">https://github.com/li9i/apriltag-hitch-estimation</url>
-  <url type="bugtracker">https://github.com/li9i/apriltag-hitch-estimation/issues</url>
+  <url type="website">https://github.com/li9i/hitch-estimation-apriltag-array</url>
+  <url type="repository">https://github.com/li9i/hitch-estimation-apriltag-array</url>
+  <url type="bugtracker">https://github.com/li9i/hitch-estimation-apriltag-array/issues</url>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
